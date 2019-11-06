@@ -1,0 +1,12 @@
+{
+  "name": "hello-heroku",
+  "version": "0.1.0",
+  "description": "Hello World for Heroku. Practive project on how to use Node app (i.e. MERN) on Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Towery <kbaries@gmail.com> (johntowery.work)",
+  "license": "MIT"
+}
